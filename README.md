@@ -1,4 +1,5 @@
 # The guests registrator application
+![screens_look](https://github.com/andreyzibrov/zibrov_2isp11-30vb_guest_registrator/assets/159270137/88e18681-d444-434b-9d07-938e03e764de)
 
 A new Flutter project.
 
